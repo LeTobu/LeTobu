@@ -2,7 +2,7 @@
 - 👀 Das hier ist meine ReadME
 - 🌱 Ich bin ein kleiner aber feiner Developer!
 - 💞️ ......
-- 📫 Discord: discord.nortix.eu
+- 📫 Discord: 
 
 <!---
 LeTobu/LeTobu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
